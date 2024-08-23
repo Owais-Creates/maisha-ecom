@@ -1,0 +1,30 @@
+.user-details-main {
+    max-width: 90%;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 50px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+
+.user-details-main img {
+    width: 20%;
+    margin-top: 30px;
+}
+
+.user-details-heading {
+    display: flex;
+    align-items: center;
+}
+
+.user-details-heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+}
+
+.user-name {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 80px;
+    margin-top: 50px;
+    width: fit-content;
+}

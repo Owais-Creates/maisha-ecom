@@ -1,0 +1,37 @@
+.footer-main {
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.footer-heading {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer-essentials {
+    display: flex;
+}
+
+.footer-categories {
+
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 160px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    cursor: pointer;
+}
+
+.contact-us {
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 160px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    cursor: pointer;
+}
